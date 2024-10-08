@@ -1,0 +1,14 @@
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\bin\Debug\net8.0\sharpLab0005.exe
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\bin\Debug\net8.0\sharpLab0005.deps.json
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\bin\Debug\net8.0\sharpLab0005.runtimeconfig.json
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\bin\Debug\net8.0\sharpLab0005.dll
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\bin\Debug\net8.0\sharpLab0005.pdb
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\sharpLab0005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\sharpLab0005.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\sharpLab0005.AssemblyInfo.cs
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\sharpLab0005.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\sharpLab0005.dll
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\refint\sharpLab0005.dll
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\sharpLab0005.pdb
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\sharpLab0005.genruntimeconfig.cache
+C:\Users\slava\source\repos\sharpLab0005\sharpLab0005\obj\Debug\net8.0\ref\sharpLab0005.dll
